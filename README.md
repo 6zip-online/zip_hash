@@ -1,7 +1,7 @@
-dash_hash (python) v1.4.0
+6zip_hash (python) v1.4.0
 ===========================
 
-Python module for Dash's X11 hashing.
+Python module for 6Zip's X11 hashing.
 
 
 Install
@@ -20,7 +20,7 @@ After installation, test hash.
 
 Uninstall
 -------
-    $ pip3 uninstall dash_hash
+    $ pip3 uninstall zip_hash
 
 Credits
 -------
